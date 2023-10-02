@@ -1,2 +1,2 @@
-# Teams (aka. Groups / Communities)
+# 🫂 Teams (aka. Groups / Communities)
 

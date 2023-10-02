@@ -14,12 +14,12 @@ description: The Community Platform Framework built on Laravel, Livewire and Fil
 
 ## Quick links
 
-{% content-ref url="overview/what-we-do.md" %}
-[what-we-do.md](overview/what-we-do.md)
+{% content-ref url="overview/whats-catalyst.md" %}
+[whats-catalyst.md](overview/whats-catalyst.md)
 {% endcontent-ref %}
 
-{% content-ref url="overview/our-features.md" %}
-[our-features.md](overview/our-features.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ## Get Started
